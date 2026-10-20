@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+settings.json
+settings.tmp
+error.log
+*.log
+diagnostics.json
+minecraft_font_ocr.json
+windows_integration.json
+ui_smoke.json
+ui_smoke.png
